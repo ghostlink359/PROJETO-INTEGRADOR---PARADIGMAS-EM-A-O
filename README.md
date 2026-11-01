@@ -1,1 +1,1 @@
-# PROJETO-INTEGRADOR---PARADIGMAS-EM-A-O
+# Projeto Paradigmas
